@@ -1,0 +1,50 @@
+{
+  "excavation": [
+    {
+      "zZahyouKeikakuValue": 3,
+      "yZahyouKoudouValue": 2,
+      "keisokuAt": "Date",
+      "errorCode": "E500",
+      "suichokuHensa": 1,
+      "xZahyouKoudouValue": 1,
+      "zZahyouZendouValue": 3,
+      "ringNo": 1,
+      "dataId": "DataId",
+      "keisokuSetId": 1,
+      "zZahyouKeisokuValue": 3,
+      "pitch": {
+        "pitchMin": 59,
+        "pitchSec": 59,
+        "pitchDegree": 359
+      },
+      "xZahyouKeikakuValue": 1,
+      "zZahyouSuiteiValue": 3,
+      "direction": {
+        "directionDegree": 359,
+        "directionMin": 59,
+        "directionSec": 59
+      },
+      "actStroke": 100,
+      "zendouSuiheiHensa": 1,
+      "isValid": "Valid",
+      "xZahyouKeisokuValue": 1,
+      "yZahyouSuiteiValue": 2,
+      "xZahyouZendouValue": 1,
+      "yZahyouKeisokuValue": 2,
+      "machineId": "MachineId",
+      "zZahyouKoudouValue": 3,
+      "koudouSuiheiHensa": 1,
+      "koudouSuichokuHensa": 1,
+      "yZahyouKeikakuValue": 2,
+      "xZahyouSuiteiValue": 1,
+      "yZahyouZendouValue": 2,
+      "dataKubun": "DataKubun",
+      "suiheiHensa": 1,
+      "zendouSuichokuHensa": 1,
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
