@@ -45,6 +45,36 @@
       "id": 1
     }
   ],
+  "clearance": [
+    {
+      "keisokuAt": "Data",
+      "errorCode": "E500",
+      "ringNo": 1,
+      "dataId": "DataId",
+      "keisokuSetId": 1,
+      "clearanceActValue7": 30,
+      "clearanceActValue8": 30,
+      "clearanceActValue5": 30,
+      "actStroke": 100,
+      "clearanceActValue6": 30,
+      "clearanceActValue3": 30,
+      "isValid": "Valid",
+      "clearanceActValue4": 30,
+      "clearanceActValue1": 30,
+      "clearanceActValue2": 30,
+      "clearance7": 30,
+      "clearance6": 30,
+      "clearance5": 30,
+      "machineId": "MachineId",
+      "clearance4": 30,
+      "clearance8": 30,
+      "dataKubun": "DataKubun",
+      "clearance3": 30,
+      "clearance2": 30,
+      "clearance1": 30,
+      "id": 1
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
